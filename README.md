@@ -1,4 +1,4 @@
-Dashboard UI using HTML, SCSS, JS
+Web Page designed using HTML, SCSS, JS
 
 1. Unzip the folder
 
